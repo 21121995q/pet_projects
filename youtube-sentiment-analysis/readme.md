@@ -1,6 +1,10 @@
 ![image](https://github.com/21121995q/pet_projects/assets/141146413/a0212c20-bb13-464c-8350-a519b743491f)
 
-The project is written with Gpts Code Copilot, the final prompt is attached in the file 'prompt.txt'.
+This project is an exploration of the capabilities of large language models (LLMs) for code generation, specifically focusing on sentiment analysis of YouTube comments. By integrating various sentiment analysis models and the YouTube Data API, this web application analyzes the most liked comments on YouTube videos related to a user-specified topic.
+
+During the development of this project, I experimented with several LLMs to assist in writing code and found Gpts Code Copilot to be the most responsive and effective for generating substantial code snippets. This project demonstrates the potential of using LLMs to streamline development processes and achieve robust results
+
+The final prompt is attached in the file 'prompt.txt'.
 
 This project is a web application designed to analyze the sentiment of the most liked comments on YouTube videos related to a user-specified topic. The application fetches popular videos based on the topic, retrieves the top comments, and evaluates the sentiment of each comment using multiple sentiment analysis models.
 
