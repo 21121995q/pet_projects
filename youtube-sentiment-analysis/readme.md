@@ -34,4 +34,4 @@ Libraries: Hugging Face transformers for sentiment analysis
 
 # Getting Started
 
-To run this project, ensure you have the necessary dependencies installed and insert your YouTube Data API key into the app.py file.
+insert your YouTube Data API key into the app.py file.
